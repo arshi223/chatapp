@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692454380121",
+    "project_id": "hitech-28b7b",
+    "storage_bucket": "hitech-28b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692454380121:android:f893f85482a005b6c51748",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692454380121-k8kuju9bqavfjaruci8u8qru7l7l9ppp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkDRZZ1EQUtVb96eWcb7sn0pi8dN4N-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692454380121-k8kuju9bqavfjaruci8u8qru7l7l9ppp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
